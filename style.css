@@ -1,0 +1,39 @@
+
+.card{
+   justify-content: space-between;
+   text-align: center;
+   margin: 20px;
+   background-color: rgb(27, 27, 27);
+   color: white;
+   font-weight: 100px;
+   border-end-start-radius: 2px;
+   border-end-end-radius: 45px;
+   border-color: gold;
+}
+body{
+    background-color: rgb(166, 206, 193);
+   
+}
+h1{
+    text-align: center;
+    margin: 30px;
+    font-size: 80px;
+}
+.a{
+    color: rgb(52, 0, 0);
+}
+.b{
+color: rgb(16, 16, 145);
+}
+.c{
+ color: rgb(97, 156, 39);
+}
+.d{
+    color: rgb(79, 16, 79);
+}
+.e{
+    color: rgb(10, 89, 10);
+
+}.f{
+ color: rgb(86, 30, 58);
+}
